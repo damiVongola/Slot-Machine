@@ -1,10 +1,8 @@
 import java.util.Scanner;
-public class Assignment2{
+public class RandomNumberGenerator{
 
     public static void main(String[]args){
-        /* Name: Aleshinloye Damilola, StudNO: 3050957
-         * Assignment 3
-         * ACS-1903-050
+        /* Name: Aleshinloye Damilola
          * Operating System: Windows 8
          * Editor: Blue-J
          * Java version number: 7
